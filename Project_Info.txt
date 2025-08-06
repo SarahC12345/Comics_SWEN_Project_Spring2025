@@ -1,0 +1,12 @@
+Language: Java
+
+Information: Comic database + text based UI that 
+allows users to store, sort and grade comics as well 
+as look through and transfer comics between the master 
+database and theirs.
+
+UML Diagrams, Gang of Four Cards , and other project planning documents
+will be in the design documents folder if you want to see the design 
+of the whole system.
+
+Date Completed: 3/10/25
